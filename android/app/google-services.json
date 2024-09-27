@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "26428529898",
+    "project_id": "parcel-v-1-0",
+    "storage_bucket": "parcel-v-1-0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26428529898:android:ed50f722432e2d6e72cb93",
+        "android_client_info": {
+          "package_name": "com.mycompany.parcelv10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26428529898-ukpb1bskb81mrasvte5liiaatlcev9lf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.parcelv10",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "26428529898-4uomb08qiae3sdp8cii37oa4u9pj2icr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt0ve2K5e--chA7xd5Lh8Yq7pJ8JpOOR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26428529898-4uomb08qiae3sdp8cii37oa4u9pj2icr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "26428529898-j84cn7pqhonu6n74fubs2g5ufn2n5i2j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.parcelv10"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
